@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97438ec3-4522-4837-b7b8-925f6c3f343d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/ReverseDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/package1/FastCODE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/ReverseDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="9" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="e#563#564#0" expanded="true" />
                 <element signature="e#625#626#0" expanded="true" />
@@ -57,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+            <state relative-caret-position="-261">
+              <caret line="7" column="17" selection-end-line="47" />
               <folding>
                 <element signature="e#668#669#0" expanded="true" />
                 <element signature="e#721#722#0" expanded="true" />
@@ -72,12 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding>
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -170,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582504767208" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582568233041" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -307,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581862777504</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HelloWorld start3">
+      <created>1582504803794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582504803794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -375,21 +375,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="HelloWorld start" />
     <MESSAGE value="HelloWorld start2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld start2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java</url>
-          <line>17</line>
-          <properties class="ru.progwards.java1.lessons.basics.AccuracyDoubleFloat" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="HelloWorld start3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld start3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/test/Test1.java">
@@ -441,6 +428,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/ReverseDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/package1/Fract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -461,21 +459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/ReverseDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/Astronomy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        <state relative-caret-position="-261">
+          <caret line="7" column="17" selection-end-line="47" />
           <folding>
             <element signature="e#668#669#0" expanded="true" />
             <element signature="e#721#722#0" expanded="true" />
@@ -487,12 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/progwards/java1/lessons/basics/AccuracyDoubleFloat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>

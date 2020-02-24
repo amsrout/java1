@@ -8,11 +8,11 @@ public class AccuracyDoubleFloat {
     }
     public static float volumeBallFloat(float radius) {
         final float PI = 3.14F;
-        float V2 = 4F / 3F * PI * (radius * radius * radius);
+        float V2 = 4.0F / 3.0F * PI * (radius * radius * radius);
         return V2;
     }
     public static double calculateAccuracy(double radius) {
-        return volumeBallDouble(radius) - (float) radius;
+        return volumeBallDouble(radius) - volumeBallFloat((float) radius);
     }
 
     public static void main(String[] args) {
