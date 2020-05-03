@@ -1,4 +1,4 @@
-package ru.progwards.java1.lessons.basics; //Tatyana
+package package2; //Tatyana
 
 public class ReverseDigits5 {
     public static int reverseDigits(int number) {
